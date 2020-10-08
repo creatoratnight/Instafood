@@ -1,7 +1,8 @@
 # Instafood
+<img align="right" src="https://creatoratnight.com/github/instafood_logo.png">
+
 *React &amp; Firebase Instagram Clone*
 
-<img align="right" src="https://creatoratnight.com/github/instafood_logo.png">
 Visit the website at: https://instafood.creatoratnight.com
 <br/><br />
 Social media platform for sharing pictures built with React and Firebase.
